@@ -1,0 +1,8 @@
+name: MessageFilter
+description: Keep your chat and messages clean!
+authors:
+  - Cosmic5173
+version: 1.0.0
+api: 4.0.0
+load: STARTUP
+main: Cosmic5173\MessageFilter\Filter
